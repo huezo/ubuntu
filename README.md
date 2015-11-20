@@ -1,0 +1,2 @@
+# ubuntu
+Script en Ubuntu
